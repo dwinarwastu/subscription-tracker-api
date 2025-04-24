@@ -1,5 +1,3 @@
-# Subscription Tracker API
-
 ## Features
 
 - **Advanced Rate Limiting and Bot Protection**: with Arcjet that helps you secure the whole app.
